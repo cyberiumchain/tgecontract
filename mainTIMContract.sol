@@ -369,7 +369,7 @@ contract MintableToken is StandardToken, Ownable, Claimable {
   event MintFinished();
 
   bool public mintingFinished = false;
-  uint public maxSupply = 500000000 * (10 ** 18);//Max 500 M Tokens
+  uint public maxSupply = 1100000000 * (10 ** 8);//Max 1100 M Tokens
 
 
   modifier canMint() {
