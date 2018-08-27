@@ -1,4 +1,4 @@
-# tgecontract
+# TGE contract
 Smart Contract for TIM Blockchain Token Generation Event - Audited and Compliant with Exchange Requirements  
 
 
